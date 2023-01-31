@@ -1,0 +1,11 @@
+[user]
+	email = gregory.holder76@gmail.com
+	name = Gregory Holder
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
